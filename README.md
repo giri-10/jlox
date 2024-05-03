@@ -1,7 +1,5 @@
 # Java Interpreter (jlox)
 
-![Java](https://img.shields.io/badge/Java-8-blue)
-
 This repository contains a Java implementation of an interpreter. The goal of this project is to provide a clear and concise implementation of an interpreter using plain Java, with a focus on simplicity and readability.
 
 ## Table of Contents
